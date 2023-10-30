@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "pagini"
+	},
+	{
+		"path": "style"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "pagini"
+  }
+}
